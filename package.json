@@ -1,0 +1,26 @@
+{
+  "name": "hlife-pingpp",
+  "version": "1.0.0",
+  "description": "ping++ webhooks server for HLife",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunnergit/HLifePingpp.git"
+  },
+  "keywords": [
+    "ping++",
+    "webhooks"
+  ],
+  "author": "simor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunnergit/HLifePingpp/issues"
+  },
+  "homepage": "https://github.com/gunnergit/HLifePingpp#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
